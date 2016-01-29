@@ -14,5 +14,5 @@ public class ProductDAO {
 
 	public void save(Product product) {
 		manager.persist(product); gjhghg 
-	}m.,mm,
+	}m.,mm, lkjlkjk
 }
