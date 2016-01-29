@@ -17,7 +17,7 @@ public class ProductsController {
 	public String save(Product product) {
 		System.out.println("Cadastrando o produto " + product);
 		productDAO.save(product);
-		return "products/ok";
+		return "products/ok";   jjjjjjjjjjj
 	}
 
 	@RequestMapping("/produtos/form")
